@@ -1,6 +1,11 @@
 # CrudChildParent
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+
+## Home, Passanger dashboard, Passanger details
+![image](https://user-images.githubusercontent.com/38674801/193159918-3dbbe9c2-27ef-45d2-acf8-acf8379a2e17.png)
+![image](https://user-images.githubusercontent.com/38674801/193159936-cda1cfe3-1d7f-4369-a8f6-febb2e87fcd5.png)
+![image](https://user-images.githubusercontent.com/38674801/193159958-14500e0e-3934-4c40-805a-dbcb0d6813fd.png)
+
 
 ## Development server
 
